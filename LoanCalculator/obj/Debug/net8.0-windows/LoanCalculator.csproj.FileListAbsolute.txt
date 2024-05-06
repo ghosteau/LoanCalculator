@@ -1,0 +1,16 @@
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.myWindow.resources
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.csproj.GenerateResource.cache
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.AssemblyInfo.cs
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\bin\Debug\net8.0-windows\LoanCalculator.exe
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\bin\Debug\net8.0-windows\LoanCalculator.deps.json
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\bin\Debug\net8.0-windows\LoanCalculator.runtimeconfig.json
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\bin\Debug\net8.0-windows\LoanCalculator.dll
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\bin\Debug\net8.0-windows\LoanCalculator.pdb
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.dll
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\refint\LoanCalculator.dll
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.pdb
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\LoanCalculator.genruntimeconfig.cache
+C:\Users\super\source\repos\LoanCalculator\LoanCalculator\obj\Debug\net8.0-windows\ref\LoanCalculator.dll
